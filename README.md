@@ -15,4 +15,4 @@ Result Period (Fourth second): The outcomes are determined based on the actions 
 
 If they are attacked while attempting to gain energy.
 If both the player and the enemy decide to attack, but the player has less energy than the enemy.
-Remember to impleme
+
